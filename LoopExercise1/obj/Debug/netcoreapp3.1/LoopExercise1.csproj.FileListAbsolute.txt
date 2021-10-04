@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.exe
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.deps.json
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.runtimeconfig.json
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.runtimeconfig.dev.json
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.dll
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\bin\Debug\netcoreapp3.1\LoopExercise1.pdb
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.AssemblyInfo.cs
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.dll
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.pdb
+C:\Users\charl\Desktop\Repos\LoopExercise1\LoopExercise1\obj\Debug\netcoreapp3.1\LoopExercise1.genruntimeconfig.cache
